@@ -3,11 +3,12 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:malamazainabalwajeez/main.dart';
 
 void main() {
-  testWidgets('App boots and shows the scholar header', (tester) async {
+  testWidgets('App boots and shows the scholar branding header',
+      (tester) async {
     await tester.pumpWidget(const IslamicAudioApp());
 
     expect(
-      find.text('Malama Zainab Jaafar Alwajeez'),
+      find.text('MALAMA ZAINAB JAAFAR'),
       findsOneWidget,
     );
   });

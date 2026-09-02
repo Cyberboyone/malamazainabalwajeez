@@ -28,9 +28,9 @@ dev_dependencies:
 flutter_launcher_icons:
   android: true
   ios: true
-  image_path: "assets/images/icon_legacy.png"
-  adaptive_icon_background: "#2E5A46"
-  adaptive_icon_foreground: "assets/images/icon_adaptive.png"
+  image_path: "assets/images/alwajeez_icon.png"
+  adaptive_icon_background: "#081E33"
+  adaptive_icon_foreground: "assets/images/alwajeez_icon.png"
 
 flutter:
   uses-material-design: true
