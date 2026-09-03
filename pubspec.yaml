@@ -1,7 +1,7 @@
 name: malamazainabalwajeez
 description: Offline audio lessons app for Malama Zainab Jaafar (Karatun Littafin Alwajiz).
 publish_to: 'none'
-version: 1.0.0+1
+version: 1.0.0+5
 
 environment:
   sdk: '>=3.3.0 <4.0.0'
